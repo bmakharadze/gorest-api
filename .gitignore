@@ -36,3 +36,17 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+*.class
+.mtj.tmp/
+*.jar
+.settings
+target
+.classpath
+.project
+.idea
+reports
+*.log
+*.iml
+*.DS_Store
+email.json
